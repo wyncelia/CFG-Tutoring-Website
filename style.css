@@ -1,4 +1,9 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+}
+
 /* navbar styling */
+
 
 .navbar {
     background-color: #f1f1f1;
@@ -35,6 +40,48 @@
     background-color: #47C4FC;
   }
 
+  /*Carousel styling */
+
+  .glide{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .glide {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .carousel_header {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+ .para_carousel{
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .glide__bullets {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .glide__bullet {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #e60a0a;
+    margin: 0 6px;
+    cursor: pointer;
+  }
+  
+  .glide__bullet--active {
+    background-color: #e41212;
+  }
+  
   /* footer styling */
 
   .footer {
