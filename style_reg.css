@@ -120,7 +120,10 @@ header{
     font-size: 1.2em;
     color: #fff;
 }
-
+.select-language select {
+    height: 40px; 
+  }
+  
 .select-language p{
     font-size: 1em;
     color: #fff;
@@ -136,6 +139,9 @@ select {
     border: 1px solid #b1b3b5;
     margin-top: 0px;
 }
+.select-frequency select {
+    height: 40px; 
+  }
 
 .select-frequency p{
     font-size: 1em;
