@@ -105,6 +105,19 @@ section {
     margin-bottom: 2rem;
 }
 
+/*SectionStyling*/
+    .section-spacing {
+      padding: 20px;
+      background-color: #3a8bc8;
+    }
+
+    /* Additional styling for demonstration purposes */
+    .section {
+      background-color: #3a8bc8;
+      text-align: center;
+      padding: 30px;
+    }
+
 
 /*Card Styling */
 
