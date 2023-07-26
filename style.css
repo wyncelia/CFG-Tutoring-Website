@@ -40,7 +40,7 @@ header{
 
 /* navbar styling */
 
-.logo{
+.logo {
   font-size: 1.5em;
   color:#f1f1f1;
 }
@@ -218,6 +218,7 @@ section {
 }
 
 /* footer styling */
+
 footer {
   background: linear-gradient(45deg, #3a8bc8, #104698);
   color: #f1f1f1;
@@ -233,7 +234,7 @@ footer {
 }
 
 .footer-links a {
-  margin: 0 10px;
+  margin: 0 10 px;
   text-decoration: none;
   color: #f1f1f1;
 }
@@ -241,5 +242,3 @@ footer {
 .footer-links a:hover {
   text-decoration: underline;
 }
-
-
