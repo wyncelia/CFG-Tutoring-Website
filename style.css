@@ -44,6 +44,37 @@
     background-color: #47C4FC;
   }
 
+/*Card Styling */
+
+ 
+  .about-card {
+    width: 100%;
+    max-width: 400px; 
+    margin: 0 auto;
+    background-color: #3a8bc8;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    font-family:'Poppins', sans-serif;
+}
+
+
+.card-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-family:'Poppins', sans-serif;
+}
+
+
+.card-text {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family:'Poppins', sans-serif;
+}
+
+
 /*Carousel styling */
 
 .glide{
