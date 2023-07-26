@@ -120,15 +120,16 @@
   /* footer styling */
 
   .footer {
-    background-color: #f1f1f1;
+    background: linear-gradient(45deg, #3a8bc8, #104698);
     padding: 20px;
     text-align: center;
+    color:#fff;
   }
-  
+
   .footer-links a {
     margin: 0 10px;
     text-decoration: none;
-    color: #333;
+    color: #fff;
   }
   
   .footer-links a:hover {
