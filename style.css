@@ -22,7 +22,7 @@ header{
 
 .h2 {
   font-family: 'Poppins', sans-serif;
-  color: #fff;
+  color: #f1f1f1;
   font-size: 1.1em;
 }
 
@@ -32,7 +32,7 @@ header{
   background: transparent;
   cursor: pointer;
   font-size: 1.1em;
-  color: #fff;
+  color: #f1f1f1;
   font-weight: 500;
   margin-left: 40px;
   transition: .5s;
@@ -52,7 +52,7 @@ header{
 .navigation a{
   position: relative;
   font-size: 1.1em;
-  color: #fff;
+  color: #f1f1f1;
   text-decoration: none;
   font-weight: 500;
   margin-left: 40px;
@@ -65,7 +65,7 @@ header{
   bottom: -6px;
   width: 100%;
   height: 3px;
-  background: #fff;
+  background: #f1f1f1;
   border-radius: 5px;
   transform-origin: right;
   transform: scaleX(0);
@@ -101,7 +101,7 @@ img {
   transform: translate(-50%, -50%);
   background-color: #104698;
   padding: 20px;
-  color: #fff;
+  color: #f1f1f1;
   text-align: center;
 }
 
@@ -131,7 +131,7 @@ section {
 
     /* Additional styling for demonstration purposes */
     .section {
-      background-color: #fff;
+      background-color: #f1f1f1;
       text-align: center;
       padding: 30px;
     }
@@ -168,6 +168,14 @@ section {
 
 
 /*Carousel styling */
+
+.carousel_title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #104698;
+  text-align: center;
+  margin-bottom: 20px;
+}
 
 .glide{
   font-family: Arial, sans-serif;
@@ -212,7 +220,7 @@ section {
 /* footer styling */
 footer {
   background: linear-gradient(45deg, #3a8bc8, #104698);
-  color: #fff;
+  color: #f1f1f1;
   padding: 20px;
   font-family: 'Poppins', sans-serif;
   text-align: center;
@@ -227,7 +235,7 @@ footer {
 .footer-links a {
   margin: 0 10px;
   text-decoration: none;
-  color: #fff;
+  color: #f1f1f1;
 }
 
 .footer-links a:hover {
