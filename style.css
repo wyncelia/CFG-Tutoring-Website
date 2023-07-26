@@ -19,7 +19,7 @@ header{
   z-index: 99;
   background: linear-gradient(45deg, #3a8bc8, #104698);
 }
-
+/*
 .h2 {
   font-family: 'Poppins', sans-serif;
   color: #f1f1f1;
@@ -37,6 +37,7 @@ header{
   margin-left: 40px;
   transition: .5s;
 }
+*/
 
 /* navbar styling */
 
@@ -47,6 +48,8 @@ header{
 
 .logo a {
   text-decoration: none;
+  color:#f1f1f1;
+  font-weight: bold;
 }
 
 .navigation a{
