@@ -58,6 +58,33 @@
   transform: scaleX(1);
 }
 
+/*Header Styling*/
+
+
+  body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+
 /*Card Styling */
 
  
