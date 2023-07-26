@@ -198,7 +198,6 @@ select {
     width: 140px;
     height: 40px;
     background: transparent;
-    border: 2px solid #fff;
     outline: none;
     border-radius: 6px;
     cursor: pointer;
