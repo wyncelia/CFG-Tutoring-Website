@@ -123,19 +123,18 @@ section {
     margin-bottom: 2rem;
 }
 
-/*SectionStyling*/
+/*Section Styling*/
     .section-spacing {
       padding: 20px;
-      background-color: #3a8bc8;
+      background-color: #fff;
     }
 
     /* Additional styling for demonstration purposes */
     .section {
-      background-color: #3a8bc8;
+      background-color: #fff;
       text-align: center;
       padding: 30px;
     }
-
 
 /*Card Styling */
 
