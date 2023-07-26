@@ -14,12 +14,12 @@
   top: 0;
   left: 0;
   width: 100%;
+  padding: 10px 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   z-index: 99;
   background: linear-gradient(45deg, #3a8bc8, #104698);
-  padding: 20px;
 }
 
 .logo {
