@@ -173,10 +173,12 @@ select {
 
 .logo{
     font-size: 1.5em;
-    color:#162938;
-    user-select: none;
-    margin-left: -50px;
+    color:#f1f1f1;
 }
+
+.logo a {
+    text-decoration: none;
+  }
 
 .navigation a{
     position: relative;
@@ -240,6 +242,8 @@ select {
     vertical-align: middle;
     color: #fff;
 }
+
+/* footer styling */
 
 footer{
     position: absolute;
