@@ -14,21 +14,23 @@
   top: 0;
   left: 0;
   width: 100%;
-  padding: 10px 100px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   z-index: 99;
   background: linear-gradient(45deg, #3a8bc8, #104698);
+  padding: 20px;
 }
 
 .logo {
   font-size: 1.5em;
   color:#f1f1f1;
+  font-weight: bold;
 }
 
 .logo a {
   text-decoration: none;
+  color:#f1f1f1;
 }
 
 .nav-links a{
@@ -57,6 +59,8 @@
 .nav-links a:hover::after{
   transform: scaleX(1);
 }
+
+
 
 /*Card Styling */
 
@@ -90,6 +94,14 @@
 
 
 /*Carousel styling */
+
+.carousel_title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #162938;
+  text-align: center;
+  margin-bottom: 20px;
+}
 
 .glide{
   font-family: Arial, sans-serif;
